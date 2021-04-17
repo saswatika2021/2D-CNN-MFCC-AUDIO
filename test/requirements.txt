@@ -1,0 +1,5 @@
+json
+numpy
+sklearn
+tensorflow.keras
+matplotlib.pyplot
