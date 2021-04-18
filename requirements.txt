@@ -1,7 +1,7 @@
 keras
 scikit-learn==0.22.1
 librosa
-json
+jsonschema==3.2.0
 numpy
 matplotlib.pyplot 
 tensorflow-gpu==2.2.0
