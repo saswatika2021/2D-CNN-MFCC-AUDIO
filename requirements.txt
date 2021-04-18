@@ -1,5 +1,5 @@
 keras
-sklearn
+ scikit-learn==0.22
 arn.preprocessing
 librosa
 json
