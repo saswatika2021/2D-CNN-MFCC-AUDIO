@@ -7,9 +7,8 @@ matplotlib
 tensorflow-gpu==2.2.0
 pandas
 seaborn
-glob 
 os
 tqdm
 pickle
-IPython.display
+IPython
 cuda
