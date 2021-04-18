@@ -5,7 +5,7 @@ librosa
 json
 numpy
 matplotlib.pyplot 
-tensorflow==2.2.0
+tensorflow-gpu==2.2.0
 pandas
 seaborn
 glob 
@@ -13,3 +13,4 @@ os
 tqdm
 pickle
 IPython.display
+cuda
