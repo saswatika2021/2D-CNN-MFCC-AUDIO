@@ -7,7 +7,6 @@ matplotlib
 tensorflow-gpu==2.2.0
 pandas
 seaborn
-os
 tqdm
 pickle
 IPython
