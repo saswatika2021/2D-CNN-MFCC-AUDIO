@@ -20,7 +20,7 @@ jobs:
     - name: Set up Python version
       uses: actions/setup-python@v1
       with:
-        python-version: '3.8'
+        python-version: '3.6'
 
     - name: Create and start virtual environment
       run: |
@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'speechanalysis'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_77d302dcad16438eb9f27b10bd64ecef }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f63f813137fb4494818c67627c433612 }}
