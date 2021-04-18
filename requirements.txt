@@ -1,6 +1,5 @@
 keras
 scikit-learn==0.22.1
-arn.preprocessing
 librosa
 json
 numpy
