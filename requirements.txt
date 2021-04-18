@@ -8,6 +8,5 @@ tensorflow-gpu==2.2.0
 pandas
 seaborn
 tqdm
-pickle
 IPython
-cuda
+
