@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'speechanalysis'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_27d1deec752c482faa32adb7bb29d80c }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_7b8804a2080647c6ae885f1b62866719 }}
